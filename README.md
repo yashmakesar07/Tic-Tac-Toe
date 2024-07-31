@@ -1,6 +1,7 @@
 # Tic Tac Toe
 
 This is a simple Tic Tac Toe game built with React. The game allows two players to take turns and click on squares to mark them with "X" or "O". The game detects a win or a draw and allows the players to restart the game.
+Deployment Link -  https://main.d2r7p95r4vonuk.amplifyapp.com/
 
 ## Features
 
